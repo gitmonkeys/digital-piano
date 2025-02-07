@@ -7,7 +7,9 @@ This project implements a simple digital piano using a Tiva C series TM4C123G mi
 **Hardware Requirements**
 
 Microcontroller: Tiva C Series TM4C123G Launchpad
+
 Breadboard
+
 Resistors: 1.5kΩ, 3kΩ, 6kΩ, and 12kΩ
 
 **Hardware Setup**
