@@ -13,4 +13,4 @@ Resistors: 1.5kΩ, 3kΩ, 6kΩ, and 12kΩ
 Breadboard, jumper wires, tactile buttons, audio jack
 
 
-**Related Link: **  [Video](https://drive.google.com/file/d/1FbFkf0icbxJbbtfuMutTsZ0SHNaiKfvJ/view?usp=sharing)
+**Related Link** :  [Video](https://drive.google.com/file/d/1FbFkf0icbxJbbtfuMutTsZ0SHNaiKfvJ/view?usp=sharing)
